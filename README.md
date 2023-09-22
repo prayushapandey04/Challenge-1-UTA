@@ -4,7 +4,7 @@ Challenge 1 repository for UT Austin Fullstack Developer Bootcamp.
 
 ## Description
 
-This project was as practice with the purpose of making websites more available for users. With the use of semantic HTML and clean CSS, this website has been refacotered into a more efficient and accesible site, especially for those who in need of assist. 
+This project was a practice with the purpose of making websites more available for users. With the use of semantic HTML and clean CSS, this website has been refacotered into a more efficient and accesible site, especially for those who in need of assist. 
 
 ## User Story
 
